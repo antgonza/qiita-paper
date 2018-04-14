@@ -10,10 +10,10 @@ Figure 2C was generated using the artifact [`Figure 2C (ID: 43729)`](https://qii
 
 ## Reproducing Figure 2D
 
-To open the IPython notebook you will need python3 and these packages:
+To open the Jupyter notebook you will need Python 3.5 and these packages:
 ```
 pip install setuptools=20.10.1
 pip install scipy ipython[all] autopep8 seaborn https://github.com/ElDeveloper/reference-plane/archive/master.zip
 ```
 
-Then to start you will need the ordination.txt (MD5 (ordination.txt) = ffe524eeab2075b6951846b6846bad2f) from [Figure 2C](https://qiita.ucsd.edu/artifact/html_summary/ordination_results/43729/index.html), or use the one provided in this repo (MD5 (ordination.txt.gz) = 981e9965259aa6aa6fa268f43a07b4ed.
+Then to start you will need the `ordination.txt` (MD5 (ordination.txt) = ffe524eeab2075b6951846b6846bad2f) from [Figure 2C](https://qiita.ucsd.edu/artifact/html_summary/ordination_results/43729/index.html), or use the one provided in this repo (MD5 (ordination.txt.gz) = 981e9965259aa6aa6fa268f43a07b4ed.
