@@ -1,5 +1,9 @@
 # Reproducing Figure 2
 
+> To download the files below, you need to open the analysis, then (1) click on the white sphere of interest, for
+> example 2A, and then click on the download button, see imageÑ
+> ![Qiita Analysis](images/analysis.png)
+
 Figure 2A-C were fully generated in Qiita, to get the same coloring and shapes that were used in the manuscript, you can access each of the individual plots and load the Emperor settings directly. The main analysis can be found within [Qiita](https://qiita.ucsd.edu/analysis/description/15093/), you must be log in to Qiita to be able to access it.
 
 Figure 2A was generated using the artifact [`Figure 2A (ID: 43637)`](https://qiita.ucsd.edu/artifact/html_summary/ordination_results/43637/index.html), to regenerate the coloring scheme you can load the file `emperor-settings-43637.json` within this repository.
