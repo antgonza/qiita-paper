@@ -18,7 +18,7 @@ Figure 2C was generated using the artifact [`Figure 2C (ID: 43729)`](https://qii
 
 To open the Jupyter notebook you will need Python 3.5 and these packages:
 ```
-pip install setuptools=20.10.1
+pip install setuptools==20.10.1
 pip install scipy ipython[all] autopep8 seaborn https://github.com/ElDeveloper/reference-plane/archive/master.zip
 ```
 
