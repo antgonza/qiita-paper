@@ -13,4 +13,4 @@ venv/
 ENV/
 
 # actual resulting plot
-dianosis_simple.pdf
+diagnosis_simple.pdf
